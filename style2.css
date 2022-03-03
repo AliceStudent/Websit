@@ -1,17 +1,28 @@
+header{
+  background-color: black;
+}
 body{
-  background-color: orange;
-  color: brown;
-  font-family: 'Noto Serif Display', serif;
-
-}
-
-h1{
+  background-color: pink;
   color: white;
-}
-h2{
-  color:white;
+  font-family: 'Noto Serif Display', serif;
+  font-family: 'Smooch Sans', sans-serif;
 }
 
-p{
-  background-color: white;
+h1 {
+  font-size: 24px;
+  color: black;
+}
+
+h2 {
+  font-size: 24px;
+  color: black;
+}
+
+
+p {
+  background-color: black;
+}
+
+headr{
+  colour: red;
 }
