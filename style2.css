@@ -1,11 +1,16 @@
-header{
-  background-color: black;
-}
 body{
   background-color: pink;
+  font-size: 100%;
+  margin: 0;
+  line-height: 1;
+  /* border: 1px solid blue; */
   color: white;
   font-family: 'Noto Serif Display', serif;
   font-family: 'Smooch Sans', sans-serif;
+}
+
+header{
+  background-color: black;
 }
 
 h1 {
@@ -20,9 +25,6 @@ h2 {
 
 
 p {
+  font-size: 36px;
   background-color: black;
-}
-
-headr{
-  colour: red;
 }
